@@ -7,7 +7,7 @@ val PratyeshSingh = human {
     about {
         name = "Pratyesh Singh"
         company = listOf("Target.com", "ex:-", "Amazon.com", "JCPenney.com", "PepperFry.com", "PolicyBazaar.com")
-        role = Android Native Developer
+        role = Android Native Engineer
     }
 
     tech {
