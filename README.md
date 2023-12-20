@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**PratyeshSingh/PratyeshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pratyesh Singh Banner](https://raw.github.com/PratyeshSingh/PratyeshSingh/main/images/Banner.jpg)
 
-Here are some ideas to get you started:
+## <img width="45" alt="about" src="https://raw.github.com/PratyeshSingh/PratyeshSingh/main/images/about.png"> More about me
+```kotlin
+val PratyeshSingh = human {
+    about {
+        name = "Pratyesh Singh"
+        company = listOf("Target.com", "ex:-", "Amazon.com", "JCPenney.com", "PepperFry.com", "PolicyBazaar.com")
+        role = Android Native Developer
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    tech {
+        day("Android", "Kotlin", "Jetpack Compose", "App Development")
+        night(".*".toRegex())
+    }
+
+    links {
+        linkedin = "https://www.linkedin.com/in/chandra2011/"
+    }
+}
+```
