@@ -16,8 +16,8 @@ val PratyeshSingh = human {
     }
 
     links {
-        linkedin = "https://www.linkedin.com/in/chandra2011/",
-        gist_github = "https://gist.github.com/PratyeshSingh"
+        linkedin = "https://www.linkedin.com/in/chandra2011/"
     }
 }
 ```
+[Gist Github](https://gist.github.com/PratyeshSingh)
