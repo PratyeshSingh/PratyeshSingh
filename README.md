@@ -20,4 +20,6 @@ val PratyeshSingh = human {
     }
 }
 ```
+![Git report 2025](https://raw.github.com/PratyeshSingh/PratyeshSingh/main/images/gitlab_report_for_2025.png)
+
 [Gist Github](https://gist.github.com/PratyeshSingh)
