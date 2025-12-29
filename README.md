@@ -16,7 +16,7 @@ val PratyeshSingh = human {
     }
 
     links {
-        linkedin = "https://www.linkedin.com/in/chandra2011/"
+        linkedin = "https://www.linkedin.com/in/pratyesh-singh-17298235/"
     }
 }
 ```
