@@ -6,7 +6,7 @@
 val PratyeshSingh = human {
     about {
         name = "Pratyesh Singh"
-        company = listOf("Target.com", "ex:-", "Amazon.com", "JCPenney.com", "PepperFry.com", "PolicyBazaar.com")
+        company = listOf("Petco.com", "ex:-", "Target.com", "Amazon.com", "JCPenney.com", "PepperFry.com", "PolicyBazaar.com")
         role = Senior Engineering Manager + Android Native Engineer
     }
 
